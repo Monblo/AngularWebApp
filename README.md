@@ -10,3 +10,9 @@ Small web application content Recipes List and Shopping List.
 #Services
 #Dependency Injection
 #Routing
+
+![image](https://github.com/user-attachments/assets/acf1e30e-79c8-4fff-be38-f169f316e109)
+
+![image](https://github.com/user-attachments/assets/2ae49a09-7b05-45e2-b8b7-4fe1de077950)
+
+
